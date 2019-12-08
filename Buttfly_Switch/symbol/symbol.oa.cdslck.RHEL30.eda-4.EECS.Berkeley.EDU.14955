@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      ee140-abj
+HostName                       eda-4.EECS.Berkeley.EDU
+ProcessIdentifier              14955
+ProcessCreationTime_UTC        1575712105
+ProcessCreationTime_Readable   Sat Dec  7 01:48:25 2019 PST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/cc/ee140/fa19/class/ee140-abj/ee140/cadence/lab2/Buttfly_Switch/symbol/symbol.oa.cdslck
+TimeEditLocked                 Sat Dec  7 02:00:06 2019 PST

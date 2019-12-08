@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      ee140-abj
+HostName                       eda-5.EECS.Berkeley.EDU
+ProcessIdentifier              28075
+ProcessCreationTime_UTC        1569018338
+ProcessCreationTime_Readable   Fri Sep 20 15:25:38 2019 PDT
+AppIdentifier                  /share/instsww/cadence/IC617/tools/dfII/bin/64bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       
+FilePathUsedToEditLock         /home/cc/ee140/fa19/class/ee140-abj/ee140/cadence/lab2/inverter/physConfig/physExpand.cfg
+TimeEditLocked                 Fri Sep 20 16:55:42 2019 PDT

@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      ee140-abj
+HostName                       eda-4.EECS.Berkeley.EDU
+ProcessIdentifier              11777
+ProcessCreationTime_UTC        1573885739
+ProcessCreationTime_Readable   Fri Nov 15 22:28:59 2019 PST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/cc/ee140/fa19/class/ee140-abj/ee140/cadence/lab2/OpAmp_bandGap/OpAmp_bandGap_symbol/symbol.oa.cdslck
+TimeEditLocked                 Sat Nov 16 04:34:16 2019 PST
