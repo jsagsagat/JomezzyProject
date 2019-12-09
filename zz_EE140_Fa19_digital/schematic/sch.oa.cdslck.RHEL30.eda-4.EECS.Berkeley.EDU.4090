@@ -6,11 +6,11 @@
 LockStakeVersion               1.1
 LoginName                      ee140-abj
 HostName                       eda-4.EECS.Berkeley.EDU
-ProcessIdentifier              8212
-ProcessCreationTime_UTC        1575775495
-ProcessCreationTime_Readable   Sat Dec  7 19:24:55 2019 PST
+ProcessIdentifier              4090
+ProcessCreationTime_UTC        1575925126
+ProcessCreationTime_Readable   Mon Dec  9 12:58:46 2019 PST
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /home/cc/ee140/fa19/class/ee140-abj/ee140/cadence/lab2/zz_EE140_Fa19_digital/schematic/sch.oa.cdslck.dirlck
-TimeEditLocked                 Sat Dec  7 19:45:46 2019 PST
+FilePathUsedToEditLock         /home/cc/ee140/fa19/class/ee140-abj/ee140/cadence/lab2/zz_EE140_Fa19_digital/schematic/sch.oa.cdslck
+TimeEditLocked                 Mon Dec  9 13:00:29 2019 PST
